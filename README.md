@@ -26,8 +26,15 @@
 
 6. Copy the script below:
 
+v1 script
+
 ```zsh
 curl https://raw.githubusercontent.com/rogerhouse/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+```
+v2 script
+
+```zsh
+curl https://raw.githubusercontent.com/rogerhouse/bypass-mdm/main/bypass-mdm-v2.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
